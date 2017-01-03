@@ -1,1 +1,2 @@
 # Lecture
+about git
